@@ -18,8 +18,8 @@ const heros = ["Shaktiman","Doremon"]
 
 // Data type is object
 let myObj= {
-    name:"Supriya",
-    age:34
+    name:"chaitali",
+    age:28
 }
 
 // Datatype is object function
@@ -35,16 +35,16 @@ console.log(typeof myFunction);
 
 // In Stack it creates memory allocation for variables and when we assign one variable value to another it creates copy of original value. 
 // So when we change another variable value the original variable value remains same as it is
-let myName = "Supriya"
+let myName = "Chaitali"
 let anotherName = myName
-anotherName = "Survi"
+anotherName = "Chaitu"
 
 console.log(myName); // Supriya
 console.log(anotherName); // Survi
 
 // This is Object which stores in heap and userOne variable allocate memory in stack
 let userOne ={
-    email: "supriya21@gmail.com",
+    email: "chaitali10@gmail.com",
     upi: "user@ybl"
 }
 

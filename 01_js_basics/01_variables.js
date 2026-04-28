@@ -1,13 +1,13 @@
 const accountId=123456
-let accountEmail="supriyabandgar21@gmail.com"
-var accountPassword="1234"
-accountCity="Sangli"
+let accountEmail="chaitalikharat10@gmail.com"
+var accountPassword="12345"
+accountCity="kolhapur"
 let accountState;
 
 // accountId=2 //Not allowed
-accountEmail="supriya21@gmail.com"
-accountPassword="2345"
-accountCity="Miraj"
+accountEmail="chaitali10@gmail.com"
+accountPassword="23456"
+accountCity="Pune"
 
 /*
 Prefer not to use var
